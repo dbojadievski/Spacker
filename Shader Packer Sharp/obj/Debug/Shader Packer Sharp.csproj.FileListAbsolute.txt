@@ -1,0 +1,5 @@
+C:\Users\PersonalProgrammer\Documents\Visual Studio 2015\Projects\Shader Packer Sharp\Shader Packer Sharp\bin\Debug\Shader Packer Sharp.exe.config
+C:\Users\PersonalProgrammer\Documents\Visual Studio 2015\Projects\Shader Packer Sharp\Shader Packer Sharp\bin\Debug\Shader Packer Sharp.exe
+C:\Users\PersonalProgrammer\Documents\Visual Studio 2015\Projects\Shader Packer Sharp\Shader Packer Sharp\bin\Debug\Shader Packer Sharp.pdb
+C:\Users\PersonalProgrammer\Documents\Visual Studio 2015\Projects\Shader Packer Sharp\Shader Packer Sharp\obj\Debug\Shader Packer Sharp.exe
+C:\Users\PersonalProgrammer\Documents\Visual Studio 2015\Projects\Shader Packer Sharp\Shader Packer Sharp\obj\Debug\Shader Packer Sharp.pdb
