@@ -1,4 +1,10 @@
-﻿using System;
+/*
+ * This program is distributed under the CDDL license.
+ * The program is based off of Martin Cerny's Spacker program, who developed the original version.
+ * This extension provides the ability to read shaders from multiple file types.
+ * It also generates a wide array of different file types as output, targeting consumption languages other than JavaScript.
+ */
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
